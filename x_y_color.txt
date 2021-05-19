@@ -1,7 +1,0 @@
-1       1       ff1234
-2       2       ff5678
--4      5       ff9abc
-10      10      ffeeee
-2       -20     ff3456
-34      5       ffabcd
--10     1       ffffff
