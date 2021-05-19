@@ -1,0 +1,28 @@
+Level: 1; diagrams count: 1 
+#ff0000
+
+Level: 2; diagrams count: 2
+#ff0000
+#ff0000
+
+Level: 3; diagrams count: 3
+#ffffff
+#ff0000
+#ffffff
+
+Level: 4; diagrams count: 5
+#ffffff
+#ff0000
+#ff8000
+#ff0000
+#ffffff
+
+Level: 5; diagrams count: 7
+#ffffff
+#ff6666
+#ff3333
+#ff0000
+#ff3333
+#ff6666
+#ffffff
+
